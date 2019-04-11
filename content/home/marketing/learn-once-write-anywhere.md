@@ -1,8 +1,8 @@
 ---
-title: Learn Once, Write Anywhere
+title: Học một lần, viết mọi nơi
 order: 2
 ---
 
-We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.
-
-React can also render on the server using Node and power mobile apps using [React Native](https://facebook.github.io/react-native/).
+Chúng tôi không đưa ra các giả định về phần còn lại của ngăn xếp công nghệ của bạn, vì vậy bạn có thể phát triển các tính năng mới trong React mà không cần viết lại mã hiện có.
+ 
+React cũng có thể kết xuất trên máy chủ bằng Node và rất mạnh cho các ứng dụng di động bằng cách sử dụng [React Native](https://facebook.github.io/react-native/).
