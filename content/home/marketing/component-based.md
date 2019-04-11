@@ -1,8 +1,8 @@
 ---
-title: Component-Based
+title: Dựa trên các thành phần
 order: 1
 ---
 
-Build encapsulated components that manage their own state, then compose them to make complex UIs.
-
-Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
+Xây dựng các thành phần đóng gói quản lý trạng thái của riêng chúng, sau đó kết hợp chúng để tạo các UI phức tạp.
+ 
+Vì logic thành phần được viết bằng JavaScript thay vì các mẫu, bạn có thể dễ dàng truyền dữ liệu phong phú qua ứng dụng của mình và tránh trạng thái ra khỏi DOM.
