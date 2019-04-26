@@ -46,7 +46,7 @@ Bạn có thể [thêm React vào trang HTML trong một phút](/docs/add-react-
 
 ### Tạo một ứng dụng React mới {#create-a-new-react-app}
 
-When starting a React project, [a simple HTML page with script tags](/docs/add-react-to-a-website.html) might still be the best option. It only takes a minute to set up!
+Khi bắt đầu một dự án React, [một trang HTML đơn giản với các thẻ script](/docs/add-react-to-a-website.html) vẫn có thể là lựa chọn tốt nhất. Chỉ mất một phút để thiết lập!
 
 As your application grows, you might want to consider a more integrated setup. There are [several JavaScript toolchains](/docs/create-a-new-react-app.html) we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem.
 
